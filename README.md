@@ -15,6 +15,8 @@ mailing list for questions, discussions, and development.  There is
 also an IRC channel on OFTC (irc.oftc.net) #gtest available.  Please
 join us!
 
+The Travis-ci configuration file and shell script may help you get started. For instance by setting the relevant environment variable taken from [travis.yml](travis.yml) and then running the [travis build script](./travis.sh)
+
 Getting started information for **Google Test** is available in the 
 [Google Test Primer](googletest/docs/Primer.md) documentation.
 
